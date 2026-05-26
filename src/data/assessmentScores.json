@@ -1,0 +1,159 @@
+{
+  "questions": [
+    { "id": "cf1", "domain": "Choice and Flexibility", "domainIndex": 1, "text": "Residents participate in care planning" },
+    { "id": "cf2", "domain": "Choice and Flexibility", "domainIndex": 1, "text": "Residents choose family involvement" },
+    { "id": "cf3", "domain": "Choice and Flexibility", "domainIndex": 1, "text": "Staff adapt routines to preferences" },
+    { "id": "md1", "domain": "Meals and Dining", "domainIndex": 2, "text": "Residents choose what/when/where they eat" },
+    { "id": "md2", "domain": "Meals and Dining", "domainIndex": 2, "text": "Residents participate in meal preparation" },
+    { "id": "md3", "domain": "Meals and Dining", "domainIndex": 2, "text": "Cultural/religious/dietary needs supported" },
+    { "id": "md4", "domain": "Meals and Dining", "domainIndex": 2, "text": "Mealtime pacing reflects preferences" },
+    { "id": "md5", "domain": "Meals and Dining", "domainIndex": 2, "text": "Communal dining optional" },
+    { "id": "ph1", "domain": "Personal Hygiene", "domainIndex": 3, "text": "Residents choose when/how they bathe" },
+    { "id": "ph2", "domain": "Personal Hygiene", "domainIndex": 3, "text": "Sensory preferences respected" },
+    { "id": "ph3", "domain": "Personal Hygiene", "domainIndex": 3, "text": "Residents supported in self-care" },
+    { "id": "ph4", "domain": "Personal Hygiene", "domainIndex": 3, "text": "Grooming reflects identity preferences" },
+    { "id": "hh1", "domain": "Household Hygiene", "domainIndex": 4, "text": "Residents/families assist with laundry" },
+    { "id": "hh2", "domain": "Household Hygiene", "domainIndex": 4, "text": "Residents participate in chores" },
+    { "id": "hh3", "domain": "Household Hygiene", "domainIndex": 4, "text": "Control over personal items" },
+    { "id": "hh4", "domain": "Household Hygiene", "domainIndex": 4, "text": "Schedules reflect resident input" },
+    { "id": "rc1", "domain": "Relationships & Connection", "domainIndex": 5, "text": "Meaningful relational conversations" },
+    { "id": "rc2", "domain": "Relationships & Connection", "domainIndex": 5, "text": "Staff know life stories" },
+    { "id": "rc3", "domain": "Relationships & Connection", "domainIndex": 5, "text": "Staffing supports continuity" },
+    { "id": "rc4", "domain": "Relationships & Connection", "domainIndex": 5, "text": "Staff educated on relational care" },
+    { "id": "hm1", "domain": "Hobbies & Meaningful Activity", "domainIndex": 6, "text": "Residents choose activities & timing" },
+    { "id": "hm2", "domain": "Hobbies & Meaningful Activity", "domainIndex": 6, "text": "Individualized activity plans" },
+    { "id": "hm3", "domain": "Hobbies & Meaningful Activity", "domainIndex": 6, "text": "Structured and spontaneous options" },
+    { "id": "hm4", "domain": "Hobbies & Meaningful Activity", "domainIndex": 6, "text": "Isolated residents still engaged" }
+  ],
+  "runs": [
+    {
+      "runId": 1,
+      "neighbourhood": "Site Overview",
+      "run": 1,
+      "sentDate": "2026-01-18",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 4, "cf2": 4, "cf3": 5, "md1": 4, "md2": 3, "md3": 3, "md4": 4, "md5": 4, "ph1": null, "ph2": 2, "ph3": 2, "ph4": 3, "hh1": 4, "hh2": 3, "hh3": 5, "hh4": 5, "rc1": 4, "rc2": 5, "rc3": 4, "rc4": 4, "hm1": 3, "hm2": 4, "hm3": 4, "hm4": 5 } },
+        { "respondentId": 2, "scores": { "cf1": 3, "cf2": 4, "cf3": 3, "md1": 3, "md2": 3, "md3": 2, "md4": 3, "md5": 4, "ph1": 4, "ph2": 4, "ph3": 3, "ph4": 2, "hh1": 4, "hh2": 3, "hh3": 3, "hh4": 4, "rc1": 2, "rc2": 3, "rc3": 5, "rc4": 5, "hm1": 3, "hm2": 3, "hm3": 4, "hm4": 3 } },
+        { "respondentId": 3, "scores": { "cf1": 3, "cf2": 4, "cf3": 2, "md1": 3, "md2": 2, "md3": 3, "md4": 3, "md5": 2, "ph1": 3, "ph2": 3, "ph3": 4, "ph4": 3, "hh1": 3, "hh2": 4, "hh3": 3, "hh4": 3, "rc1": 2, "rc2": 5, "rc3": 5, "rc4": 3, "hm1": 2, "hm2": 4, "hm3": 3, "hm4": 2 } },
+        { "respondentId": 4, "scores": { "cf1": 5, "cf2": 4, "cf3": 5, "md1": 5, "md2": 4, "md3": 4, "md4": 5, "md5": 5, "ph1": 5, "ph2": 4, "ph3": 5, "ph4": 5, "hh1": 4, "hh2": 5, "hh3": 4, "hh4": 5, "rc1": 5, "rc2": 5, "rc3": 4, "rc4": 5, "hm1": 5, "hm2": 4, "hm3": 5, "hm4": 4 } },
+        { "respondentId": 5, "scores": { "cf1": 3, "cf2": 4, "cf3": 3, "md1": 4, "md2": 2, "md3": 2, "md4": 4, "md5": 3, "ph1": 3, "ph2": 3, "ph3": 3, "ph4": 4, "hh1": 3, "hh2": 4, "hh3": 3, "hh4": 4, "rc1": 4, "rc2": 5, "rc3": 4, "rc4": 5, "hm1": 3, "hm2": 3, "hm3": 4, "hm4": 3 } },
+        { "respondentId": 6, "scores": { "cf1": 5, "cf2": 4, "cf3": 4, "md1": 5, "md2": 2, "md3": 3, "md4": 3, "md5": 5, "ph1": 5, "ph2": 4, "ph3": 5, "ph4": 5, "hh1": 4, "hh2": 4, "hh3": 4, "hh4": 4, "rc1": 5, "rc2": 5, "rc3": 5, "rc4": 5, "hm1": 4, "hm2": 4, "hm3": 5, "hm4": 4 } },
+        { "respondentId": 7, "scores": { "cf1": 2, "cf2": 1, "cf3": 2, "md1": 2, "md2": 1, "md3": 1, "md4": 1, "md5": 1, "ph1": 2, "ph2": 1, "ph3": 2, "ph4": 1, "hh1": 2, "hh2": 1, "hh3": 1, "hh4": 2, "rc1": 1, "rc2": 2, "rc3": 2, "rc4": 1, "hm1": 2, "hm2": 1, "hm3": 2, "hm4": 1 } },
+        { "respondentId": 8, "scores": { "cf1": 4, "cf2": 3, "cf3": 4, "md1": 3, "md2": 2, "md3": 2, "md4": 3, "md5": 4, "ph1": 3, "ph2": 4, "ph3": 3, "ph4": 4, "hh1": 4, "hh2": 3, "hh3": 4, "hh4": 3, "rc1": 4, "rc2": 5, "rc3": 4, "rc4": 5, "hm1": 4, "hm2": 3, "hm3": 4, "hm4": 3 } }
+      ]
+    },
+    {
+      "runId": 2,
+      "neighbourhood": "Willow",
+      "run": 1,
+      "sentDate": "2026-03-19",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 3, "cf2": 3, "cf3": 4, "md1": 2, "md2": 2, "md3": 1, "md4": 2, "md5": 2, "ph1": 4, "ph2": 3, "ph3": 3, "ph4": 4, "hh1": 3, "hh2": 3, "hh3": 4, "hh4": 3, "rc1": 5, "rc2": 4, "rc3": 2, "rc4": 5, "hm1": 3, "hm2": 4, "hm3": 3, "hm4": 3 } },
+        { "respondentId": 2, "scores": { "cf1": 3, "cf2": 3, "cf3": 3, "md1": 2, "md2": 1, "md3": 2, "md4": null, "md5": 2, "ph1": 3, "ph2": 2, "ph3": null, "ph4": 3, "hh1": 3, "hh2": 2, "hh3": 3, "hh4": 3, "rc1": 4, "rc2": 3, "rc3": 5, "rc4": 4, "hm1": 2, "hm2": 3, "hm3": 3, "hm4": 2 } },
+        { "respondentId": 3, "scores": { "cf1": 4, "cf2": 5, "cf3": 4, "md1": 4, "md2": 3, "md3": 3, "md4": 4, "md5": 5, "ph1": 4, "ph2": 5, "ph3": 4, "ph4": 4, "hh1": 5, "hh2": 4, "hh3": 4, "hh4": 5, "rc1": 4, "rc2": 5, "rc3": 4, "rc4": 5, "hm1": 4, "hm2": 5, "hm3": 4, "hm4": 4 } },
+        { "respondentId": 4, "scores": { "cf1": 2, "cf2": 1, "cf3": 2, "md1": 2, "md2": 1, "md3": 1, "md4": 2, "md5": 1, "ph1": 2, "ph2": 1, "ph3": 2, "ph4": 1, "hh1": 2, "hh2": 1, "hh3": 2, "hh4": 1, "rc1": 2, "rc2": 2, "rc3": 2, "rc4": 2, "hm1": 2, "hm2": 1, "hm3": 2, "hm4": 2 } }
+      ]
+    },
+    {
+      "runId": 3,
+      "neighbourhood": "Willow",
+      "run": 2,
+      "sentDate": "2026-06-19",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 4, "cf2": 4, "cf3": 3, "md1": 3, "md2": 3, "md3": null, "md4": 3, "md5": 4, "ph1": 4, "ph2": 3, "ph3": 4, "ph4": 4, "hh1": 4, "hh2": 3, "hh3": 4, "hh4": 4, "rc1": null, "rc2": 5, "rc3": 5, "rc4": 3, "hm1": 4, "hm2": 4, "hm3": 4, "hm4": 4 } },
+        { "respondentId": 2, "scores": { "cf1": 3, "cf2": 4, "cf3": 3, "md1": 3, "md2": 2, "md3": 3, "md4": 3, "md5": 3, "ph1": 4, "ph2": 4, "ph3": 3, "ph4": 4, "hh1": 3, "hh2": 4, "hh3": 3, "hh4": 4, "rc1": null, "rc2": 4, "rc3": 5, "rc4": null, "hm1": 3, "hm2": 4, "hm3": 4, "hm4": 3 } },
+        { "respondentId": 3, "scores": { "cf1": 5, "cf2": 4, "cf3": 5, "md1": 5, "md2": 3, "md3": 4, "md4": 4, "md5": 5, "ph1": 5, "ph2": 4, "ph3": 5, "ph4": 5, "hh1": 4, "hh2": 5, "hh3": 5, "hh4": 4, "rc1": 5, "rc2": 5, "rc3": 5, "rc4": 5, "hm1": 5, "hm2": 4, "hm3": 5, "hm4": 4 } },
+        { "respondentId": 4, "scores": { "cf1": 2, "cf2": 2, "cf3": 2, "md1": 2, "md2": 1, "md3": 2, "md4": 2, "md5": 2, "ph1": 2, "ph2": 1, "ph3": 2, "ph4": 2, "hh1": 2, "hh2": 2, "hh3": 2, "hh4": 2, "rc1": 2, "rc2": 3, "rc3": 2, "rc4": 3, "hm1": 2, "hm2": 2, "hm3": 2, "hm4": 2 } }
+      ]
+    },
+    {
+      "runId": 4,
+      "neighbourhood": "Willow",
+      "run": 3,
+      "sentDate": "2026-09-19",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 4, "cf2": 5, "cf3": 4, "md1": 4, "md2": 4, "md3": 5, "md4": 4, "md5": 5, "ph1": 5, "ph2": 4, "ph3": 4, "ph4": 5, "hh1": 4, "hh2": 5, "hh3": 4, "hh4": 5, "rc1": 5, "rc2": 5, "rc3": 4, "rc4": 5, "hm1": 4, "hm2": 5, "hm3": 4, "hm4": 4 } },
+        { "respondentId": 2, "scores": { "cf1": 4, "cf2": 4, "cf3": 4, "md1": 5, "md2": 4, "md3": 4, "md4": 3, "md5": 4, "ph1": 4, "ph2": 5, "ph3": 4, "ph4": 4, "hh1": 4, "hh2": 5, "hh3": 4, "hh4": 4, "rc1": 5, "rc2": 4, "rc3": 5, "rc4": 5, "hm1": 4, "hm2": 4, "hm3": 5, "hm4": 4 } },
+        { "respondentId": 3, "scores": { "cf1": 5, "cf2": 5, "cf3": 5, "md1": 5, "md2": 4, "md3": 5, "md4": 5, "md5": 5, "ph1": 5, "ph2": 5, "ph3": 5, "ph4": 5, "hh1": 5, "hh2": 5, "hh3": 5, "hh4": 5, "rc1": 5, "rc2": 5, "rc3": 5, "rc4": 5, "hm1": 5, "hm2": 5, "hm3": 5, "hm4": 5 } },
+        { "respondentId": 4, "scores": { "cf1": 2, "cf2": 3, "cf3": 2, "md1": 3, "md2": 2, "md3": 2, "md4": 2, "md5": 3, "ph1": 2, "ph2": 2, "ph3": 3, "ph4": 2, "hh1": 2, "hh2": 3, "hh3": 2, "hh4": 3, "rc1": 2, "rc2": 3, "rc3": 3, "rc4": 3, "hm1": 3, "hm2": 2, "hm3": 3, "hm4": 2 } }
+      ]
+    },
+    {
+      "runId": 5,
+      "neighbourhood": "Cedar",
+      "run": 1,
+      "sentDate": "2026-03-25",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 2, "cf2": 3, "cf3": 2, "md1": 2, "md2": 1, "md3": 2, "md4": 1, "md5": 2, "ph1": 2, "ph2": 2, "ph3": 1, "ph4": 2, "hh1": 2, "hh2": 3, "hh3": 2, "hh4": 2, "rc1": 3, "rc2": 3, "rc3": 2, "rc4": 3, "hm1": 2, "hm2": 3, "hm3": 2, "hm4": 2 } },
+        { "respondentId": 2, "scores": { "cf1": 3, "cf2": 2, "cf3": 2, "md1": 2, "md2": 2, "md3": 1, "md4": 2, "md5": 1, "ph1": 1, "ph2": 2, "ph3": 1, "ph4": 1, "hh1": 2, "hh2": 3, "hh3": 2, "hh4": 3, "rc1": 3, "rc2": 2, "rc3": 3, "rc4": 3, "hm1": 2, "hm2": 3, "hm3": 2, "hm4": 3 } },
+        { "respondentId": 3, "scores": { "cf1": 2, "cf2": 2, "cf3": 1, "md1": 2, "md2": 1, "md3": 1, "md4": 1, "md5": null, "ph1": 1, "ph2": 1, "ph3": 1, "ph4": 1, "hh1": 2, "hh2": 2, "hh3": 2, "hh4": 2, "rc1": 2, "rc2": 2, "rc3": 3, "rc4": 2, "hm1": 2, "hm2": 2, "hm3": 2, "hm4": 2 } }
+      ]
+    },
+    {
+      "runId": 6,
+      "neighbourhood": "Cedar",
+      "run": 2,
+      "sentDate": "2026-06-26",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 2, "cf2": 3, "cf3": 2, "md1": 2, "md2": 1, "md3": 2, "md4": 2, "md5": 2, "ph1": 2, "ph2": 2, "ph3": 2, "ph4": 2, "hh1": 2, "hh2": 3, "hh3": 2, "hh4": 3, "rc1": 3, "rc2": 3, "rc3": 2, "rc4": 3, "hm1": 3, "hm2": 3, "hm3": 2, "hm4": 3 } },
+        { "respondentId": 2, "scores": { "cf1": 3, "cf2": 2, "cf3": 3, "md1": 2, "md2": 2, "md3": 2, "md4": 1, "md5": 2, "ph1": 1, "ph2": 2, "ph3": 2, "ph4": 1, "hh1": 3, "hh2": 2, "hh3": 3, "hh4": 2, "rc1": 3, "rc2": 3, "rc3": 3, "rc4": 3, "hm1": 3, "hm2": 2, "hm3": 3, "hm4": 2 } },
+        { "respondentId": 3, "scores": { "cf1": 2, "cf2": 2, "cf3": 2, "md1": 2, "md2": 1, "md3": null, "md4": 1, "md5": 2, "ph1": 2, "ph2": 1, "ph3": 2, "ph4": 1, "hh1": 2, "hh2": 2, "hh3": 2, "hh4": 2, "rc1": 3, "rc2": 2, "rc3": 2, "rc4": 3, "hm1": 2, "hm2": 2, "hm3": 2, "hm4": 2 } }
+      ]
+    },
+    {
+      "runId": 7,
+      "neighbourhood": "Cedar",
+      "run": 3,
+      "sentDate": "2026-09-19",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 3, "cf2": 2, "cf3": 3, "md1": 3, "md2": 2, "md3": 1, "md4": 2, "md5": 2, "ph1": 2, "ph2": 2, "ph3": 1, "ph4": 2, "hh1": 2, "hh2": 3, "hh3": 2, "hh4": 3, "rc1": 3, "rc2": 3, "rc3": 3, "rc4": 3, "hm1": 3, "hm2": 3, "hm3": 3, "hm4": 2 } },
+        { "respondentId": 2, "scores": { "cf1": 3, "cf2": 3, "cf3": 2, "md1": 3, "md2": 2, "md3": 2, "md4": 1, "md5": 2, "ph1": 2, "ph2": 2, "ph3": 2, "ph4": 2, "hh1": 2, "hh2": 3, "hh3": 3, "hh4": 3, "rc1": 3, "rc2": 2, "rc3": 3, "rc4": 3, "hm1": 3, "hm2": 3, "hm3": 2, "hm4": 3 } },
+        { "respondentId": 3, "scores": { "cf1": 2, "cf2": 3, "cf3": 2, "md1": 3, "md2": 2, "md3": 1, "md4": 2, "md5": null, "ph1": 2, "ph2": 2, "ph3": 2, "ph4": 2, "hh1": 3, "hh2": 2, "hh3": 3, "hh4": 2, "rc1": 3, "rc2": 3, "rc3": 2, "rc4": 3, "hm1": 3, "hm2": 2, "hm3": 3, "hm4": 2 } }
+      ]
+    },
+    {
+      "runId": 8,
+      "neighbourhood": "Cedar",
+      "run": 4,
+      "sentDate": "2026-12-12",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 3, "cf2": 3, "cf3": 3, "md1": 3, "md2": 2, "md3": 2, "md4": 3, "md5": 2, "ph1": 2, "ph2": 2, "ph3": 2, "ph4": 2, "hh1": 3, "hh2": 3, "hh3": 3, "hh4": 3, "rc1": 3, "rc2": 3, "rc3": 3, "rc4": 3, "hm1": 3, "hm2": 3, "hm3": 3, "hm4": 3 } },
+        { "respondentId": 2, "scores": { "cf1": 3, "cf2": 2, "cf3": 3, "md1": 3, "md2": 2, "md3": 1, "md4": 2, "md5": 2, "ph1": 2, "ph2": 2, "ph3": 2, "ph4": 2, "hh1": 2, "hh2": 3, "hh3": 3, "hh4": 3, "rc1": 3, "rc2": 3, "rc3": 3, "rc4": 3, "hm1": 3, "hm2": 2, "hm3": 3, "hm4": 3 } },
+        { "respondentId": 3, "scores": { "cf1": 2, "cf2": 2, "cf3": 2, "md1": 3, "md2": 1, "md3": 1, "md4": 2, "md5": 2, "ph1": 2, "ph2": 1, "ph3": 2, "ph4": 2, "hh1": 2, "hh2": 2, "hh3": 3, "hh4": 2, "rc1": 3, "rc2": 2, "rc3": 2, "rc4": 3, "hm1": 2, "hm2": 3, "hm3": 2, "hm4": 2 } }
+      ]
+    },
+    {
+      "runId": 9,
+      "neighbourhood": "Maple",
+      "run": 1,
+      "sentDate": "2026-09-19",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 4, "cf2": 4, "cf3": 4, "md1": 4, "md2": 3, "md3": 4, "md4": 3, "md5": 4, "ph1": 4, "ph2": 3, "ph3": 4, "ph4": 4, "hh1": 4, "hh2": 3, "hh3": 4, "hh4": 4, "rc1": 4, "rc2": 4, "rc3": 4, "rc4": 4, "hm1": 4, "hm2": 3, "hm3": 4, "hm4": 3 } },
+        { "respondentId": 2, "scores": { "cf1": 3, "cf2": 3, "cf3": 4, "md1": 3, "md2": 2, "md3": 3, "md4": 3, "md5": 3, "ph1": 4, "ph2": 3, "ph3": 3, "ph4": 3, "hh1": 4, "hh2": 3, "hh3": 3, "hh4": 4, "rc1": 4, "rc2": 3, "rc3": 4, "rc4": 3, "hm1": 3, "hm2": 4, "hm3": 3, "hm4": 3 } },
+        { "respondentId": 3, "scores": { "cf1": 5, "cf2": 4, "cf3": 5, "md1": 5, "md2": 4, "md3": 4, "md4": 5, "md5": 5, "ph1": 4, "ph2": 5, "ph3": 5, "ph4": 4, "hh1": 5, "hh2": 5, "hh3": 4, "hh4": 5, "rc1": 5, "rc2": 5, "rc3": 5, "rc4": 5, "hm1": 4, "hm2": 5, "hm3": 5, "hm4": 4 } }
+      ]
+    },
+    {
+      "runId": 10,
+      "neighbourhood": "Maple",
+      "run": 2,
+      "sentDate": "2026-12-12",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 4, "cf2": 4, "cf3": 5, "md1": 4, "md2": 4, "md3": 3, "md4": 4, "md5": 4, "ph1": 4, "ph2": 4, "ph3": 5, "ph4": 4, "hh1": 4, "hh2": 5, "hh3": 4, "hh4": 4, "rc1": 5, "rc2": 5, "rc3": 4, "rc4": 5, "hm1": 4, "hm2": 5, "hm3": 4, "hm4": 4 } },
+        { "respondentId": 2, "scores": { "cf1": 4, "cf2": 3, "cf3": 4, "md1": 4, "md2": 3, "md3": 3, "md4": 3, "md5": 4, "ph1": 4, "ph2": 3, "ph3": 4, "ph4": 4, "hh1": 3, "hh2": 4, "hh3": 4, "hh4": 3, "rc1": 4, "rc2": 4, "rc3": 4, "rc4": 4, "hm1": 4, "hm2": 3, "hm3": 4, "hm4": 4 } },
+        { "respondentId": 3, "scores": { "cf1": 5, "cf2": 5, "cf3": 5, "md1": 5, "md2": 4, "md3": 5, "md4": 5, "md5": 5, "ph1": 5, "ph2": 5, "ph3": 5, "ph4": 5, "hh1": 5, "hh2": 5, "hh3": 5, "hh4": 5, "rc1": 5, "rc2": 5, "rc3": 5, "rc4": 5, "hm1": 5, "hm2": 5, "hm3": 5, "hm4": 5 } }
+      ]
+    },
+    {
+      "runId": 11,
+      "neighbourhood": "Oak",
+      "run": 1,
+      "sentDate": "2026-12-12",
+      "responses": [
+        { "respondentId": 1, "scores": { "cf1": 4, "cf2": 4, "cf3": 4, "md1": 4, "md2": 3, "md3": 4, "md4": 4, "md5": 4, "ph1": 4, "ph2": 4, "ph3": 4, "ph4": 4, "hh1": 4, "hh2": 4, "hh3": 4, "hh4": 4, "rc1": 4, "rc2": 4, "rc3": 4, "rc4": 5, "hm1": 4, "hm2": 4, "hm3": 4, "hm4": 4 } },
+        { "respondentId": 2, "scores": { "cf1": 3, "cf2": 4, "cf3": 3, "md1": 4, "md2": 3, "md3": 3, "md4": 3, "md5": 4, "ph1": 3, "ph2": 4, "ph3": 3, "ph4": 3, "hh1": 4, "hh2": 3, "hh3": 4, "hh4": 3, "rc1": 4, "rc2": 3, "rc3": 4, "rc4": 4, "hm1": 3, "hm2": 4, "hm3": 3, "hm4": 4 } },
+        { "respondentId": 3, "scores": { "cf1": 5, "cf2": 5, "cf3": 5, "md1": 5, "md2": 4, "md3": 5, "md4": 5, "md5": 5, "ph1": 5, "ph2": 5, "ph3": 4, "ph4": 5, "hh1": 5, "hh2": 5, "hh3": 4, "hh4": 5, "rc1": 5, "rc2": 5, "rc3": 5, "rc4": 5, "hm1": 5, "hm2": 5, "hm3": 4, "hm4": 5 } }
+      ]
+    }
+  ]
+}

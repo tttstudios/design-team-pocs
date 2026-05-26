@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx vite *)",
+      "mcp__Claude_Preview__preview_start",
+      "Read(//Users/nani/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/57887c7b-79ca-4827-a6a3-4cf4797ea289/3d80260f-8d60-4735-ad6a-9a3d6a895da8/skills/xlsx/**)",
+      "Bash(python3 -)",
+      "Bash(sed -i '' 's/direction=\"vertical\"/orientation=\"vertical\"/g' /Users/nani/Desktop/Claude-code-01/src/pages/admin/CareHomeProfile.jsx)",
+      "Bash(sed -i '' s/trailColor=/railColor=/g /Users/nani/Desktop/Claude-code-01/src/pages/admin/CareHomeProfile.jsx)",
+      "Bash(sed -i '' 's/destroyOnClose$/destroyOnHidden/g; s/destroyOnClose$/destroyOnHidden/g' /Users/nani/Desktop/Claude-code-01/src/pages/admin/CareHomeProfile.jsx)",
+      "mcp__Figma__get_screenshot",
+      "mcp__Figma__get_design_context",
+      "Bash(curl -s http://localhost:5299/)",
+      "Read(//tmp/**)",
+      "Bash(curl -s http://localhost:5401/src/pages/admin/CareHomeProfile.jsx)",
+      "Bash(npx --yes acorn --ecma2020 --module src/App.jsx)",
+      "Bash(ssh-keygen -t ed25519 -C \"design-team-pocs\" -f ~/.ssh/id_ed25519 -N \"\")",
+      "Read(//Users/nani/.ssh/**)",
+      "Bash(git remote *)",
+      "Bash(git fetch *)",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git reset *)",
+      "Bash(git merge *)",
+      "Bash(git commit *)",
+      "Bash(git push *)"
+    ]
+  }
+}
