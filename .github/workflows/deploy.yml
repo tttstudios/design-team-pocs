@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - h4u-admin-portal
+      - main
 
 jobs:
   deploy:
