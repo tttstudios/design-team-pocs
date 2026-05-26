@@ -181,7 +181,7 @@ const theme = {
 function App() {
   return (
     <ConfigProvider theme={theme}>
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <Routes>
           <Route path="/" element={<Navigate to="/admin" replace />} />
           <Route path="/admin" element={<AdminPortal />} />
